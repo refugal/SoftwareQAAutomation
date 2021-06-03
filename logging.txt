@@ -1,0 +1,40 @@
+Request method:	POST
+Request URI:	https://reqres.in/api/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Bryant",
+    "job": "BA"
+}
+HTTP/1.1 201 Created
+Date: Thu, 03 Jun 2021 05:07:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 77
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"4d-da8h3QI9LatrapdI8Lgums1/Rgs"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0a71de59d6000031b1d7ab4000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v2?s=Ttkc2Uk%2Btwz5jnHvs06gRNXWTykHj7GTjkoAPMls%2F2tyOPrFHYJNxh7iVOy58rEBku29iVoGR4wTwFShmw4aae%2BR%2BVAE2kSiFStNgGc1CKTF15g4fh1q"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6596666fbfe331b1-BOM
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400
+
+{
+    "name": "Bryant",
+    "job": "BA",
+    "id": "53",
+    "createdAt": "2021-06-03T05:07:50.617Z"
+}

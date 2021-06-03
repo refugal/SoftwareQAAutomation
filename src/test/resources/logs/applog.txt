@@ -1,3 +1,3 @@
-INFO    2021-06-03 09:54:53,266 [main] com.jqueryui.steps.BaseSteps  - Config properties file loaded
-INFO    2021-06-03 09:55:07,902 [main] com.jqueryui.steps.BaseSteps  - Driver Initialized !!!
-INFO    2021-06-03 09:55:22,281 [main] com.jqueryui.steps.BaseSteps  - Test Execution Completed !!!
+INFO    2021-06-03 10:39:59,908 [main] com.jqueryui.steps.BaseSteps  - Config properties file loaded
+INFO    2021-06-03 10:40:14,471 [main] com.jqueryui.steps.BaseSteps  - Driver Initialized !!!
+INFO    2021-06-03 10:40:29,028 [main] com.jqueryui.steps.BaseSteps  - Test Execution Completed !!!
